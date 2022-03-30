@@ -7,6 +7,8 @@
 ## Key Features
 
 * Gross Pay Calculator
+* Fill In The Blank
+* Future Value Calculator
 
 
 ## Support
