@@ -9,6 +9,7 @@
 * Gross Pay Calculator
 * Fill In The Blank
 * Future Value Calculator
+* Product Checkout
 * Random Exercises
 
 
