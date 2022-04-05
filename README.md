@@ -10,6 +10,7 @@
 * Fill In The Blank
 * Future Value Calculator
 * Product Checkout
+* Multiple Choice
 * Random Exercises
 
 
