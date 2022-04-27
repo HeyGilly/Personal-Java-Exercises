@@ -1,0 +1,100 @@
+1. Pasta
+2. French Fries
+3. Ice Cream
+4. Bread
+5. Fried Rice
+6. Pancakes
+7. Burger
+8. Pizza
+9. Pumpkin Pie
+10. Chicken Pot Pie
+11. Banana
+12. Apple Pie
+13. Bagel
+14. Muffins
+15. Alfredo Sauce
+16. Reece's Peanut Cups
+17. Ice Cream Cake
+18. Cheesecake
+19. Cheese
+20. Banana Bread
+21. Potato Chips
+22. Cheetos
+23. Doritos
+24. Tacos
+25. Burritos
+26. Chimichanga
+27. Enchilada
+28. Salsa
+29. Marinara Sauce
+30. Broccoli
+31. Chocolate Covered Strawberries
+32. Kiwi
+33. Tomato
+34. Salad
+35. Steak
+36. Chicken Tenders
+37. Grilled Chicken
+38. Ribs
+39. Biscuits and Gravy
+40. Hot Dogs
+41. Fried Chicken
+42. Roasted Chicken and Garlic
+43. Eggs
+44. Bacon
+45. Sausage
+46. Mashed Potatoes
+47. Stuffing
+48. Brownies
+49. Cookies
+50. Submarine Sandwiches
+51. Donuts
+52. Turkey
+53. Cranberry
+54. Gravy
+55. Green Beans
+56. Mac and Cheese
+57. Soup
+58. Lamb Chops
+59. Fried Pork Chops and Gravy
+60. Ham
+61. Sushi
+62. Teriyaki
+63. Popcorn
+64. Shrimp
+65. Lasagna
+66. Ravioli
+67. Gelatin
+68. Pudding
+69. Meatballs
+70. Gyro Sandwhich
+71. Pulled Pork
+72. Nachos
+73. Onion Rings
+74. Chocolate Cake
+75. Carrot Cake
+76. Tater Tots
+77. French Toast
+78. Baked Potato
+79. Olive Garden Breadsticks
+80. Crepes
+81. Chicken Nuggets
+82. Croissant
+83. Apple Sauce
+84. Green Bean Casserole With Fried Onions
+85. Sweet Potatoes
+86. Potato
+87. Cantalope
+88. Apple
+89. Orange
+90. Strawberries
+91. Peaches
+92. Honeydew
+93. Ginger Bread
+94. Mango
+95. Raspberries
+96. Blueberries
+97. Corn
+98. Tamale
+99. Fried Zucchini Blossoms
+100. Calzone
